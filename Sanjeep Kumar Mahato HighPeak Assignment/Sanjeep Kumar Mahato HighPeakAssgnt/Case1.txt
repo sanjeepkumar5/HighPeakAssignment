@@ -1,0 +1,16 @@
+Enter The Number of Jobs : 
+3
+Enter the 1 Jobs start_time, end-time and Profit :
+0900
+1030
+100
+Enter the 2 Jobs start_time, end-time and Profit :
+1000
+1200
+500
+Enter the 3 Jobs start_time, end-time and Profit :
+1100
+1200
+300
+Number of jobs left are : 2
+Earnings of other employees : 400
